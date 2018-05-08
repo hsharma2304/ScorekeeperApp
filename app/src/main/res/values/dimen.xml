@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="reset">32dp</dimen>
+    <dimen name="button_margin">8dp</dimen>
+    <dimen name="twenty_four">24dp</dimen>
+    <dimen name="team_margin">16dp</dimen>
+    <dimen name="teamName">14sp</dimen>
+    <dimen name="score">56sp</dimen>
+</resources>
